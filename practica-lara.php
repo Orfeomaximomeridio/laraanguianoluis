@@ -42,4 +42,5 @@ function generarSaludo(string $nombre = "Mundo"): string
      */
     return "¡Hola, " . $nombre . "!";
 }
+//ESTE ES UN COMENTARIO PARA QUE GIT DETECTE UNA MODIFICACIÓN
 ?>
